@@ -1,3 +1,3 @@
 # Game-of-Nim
 
-A game of nim against the human player vs the computer or CPU
+The AI tries to get the most points and win the game of nim by itself.
